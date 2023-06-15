@@ -10,6 +10,6 @@ Built a page for Formula 1 teams using HTML, CSS.
 - HTML, CSS
 ## Expected Outcome
 
-**<div align="center">![Project Snapshot](snapshot.gif)</div>**
+**<div align="center">![Project Snapshot](snapshot.png)</div>**
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
